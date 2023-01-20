@@ -1,0 +1,11 @@
+{
+    "name": "javra/data-base",
+    "autoload": {
+        "psr-4": {
+            "Javra\\DataBase\\": "src/"
+        }
+    },
+    "require": {
+        "guzzlehttp/guzzle": "^7.5"
+    }
+}
